@@ -3,7 +3,7 @@
 """using input() function to take input from user
 input() function stores values in string data type
 for example user enter 2 it will stored as "2" in string format
-print() function is used to print the contents mentioned within it
+we will print those two numbers
 "+" sign is used to concatenate the numbers but as numbers are in string format we convert them
 in integer format using int()
 """
