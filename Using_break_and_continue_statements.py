@@ -1,6 +1,6 @@
 #User will enter the number
-#If the number entered by user is greater than 10 then it will break the loop
-#If the number is not greater than 10 then it will continue the loop
+#loop continues until the number entered is less than 10 using continue statement
+#loop breaks when number entered is greater than 10
 
 while True:
     n = int(input("Enter the number : "))
